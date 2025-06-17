@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By Weed-Tech",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --FESSÉE-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name FUSÉE-MD",
     "stop": "pm2 stop FUSÉE-MD",
     "restart": "pm2 restart FUSÉE-MD"
   },
