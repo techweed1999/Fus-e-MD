@@ -43,11 +43,11 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![FUSÉE-MD SESSION](https://img.shields.io/badge/FUSÉE%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-5va6.onrender.com/)
+[![FUSÉE-MD SESSION](https://img.shields.io/badge/FUSÉE%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-96xx.onrender.com)
 
 
 ### 🔑 Get PAIR CODE
-[![FUSÉE-MD PAIR](https://img.shields.io/badge/FUSÉE%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-5va6.onrender.com)
+[![FUSÉE-MD PAIR](https://img.shields.io/badge/FUSÉE%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-96xx.onrender.com)
 
 
 ---
