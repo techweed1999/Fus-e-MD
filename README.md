@@ -43,11 +43,11 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![FUSÉE-MD SESSION](https://img.shields.io/badge/FUSÉE%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-96xx.onrender.com)
+[![FUSÉE-MD SESSION](https://img.shields.io/badge/FUSÉE%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://fusee-session-id.onrender.com)
 
 
 ### 🔑 Get PAIR CODE
-[![FUSÉE-MD PAIR](https://img.shields.io/badge/FUSÉE%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-96xx.onrender.com)
+[![FUSÉE-MD PAIR](https://img.shields.io/badge/FUSÉE%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://fusee-session-id.onrender.com)
 
 
 ---
@@ -170,7 +170,7 @@ jobs:
 ```
 
 ## ❤️ Credits
-[![GitHub - your github namee](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
+[![GitHub - Weed-Tech](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
 
 ---
 [![ THANKS TO WEED-TECH](https://img.shields.io/badge/GitHub-Weed-Tech-181717?style=for-the-badge&logo=github)](https://github.com/WeedTech)
