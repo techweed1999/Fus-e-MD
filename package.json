@@ -1,12 +1,12 @@
 {
-  "name": "your bot FUSÉE-MD",
+  "name": "your bot Fus-e-MD",
   "version": "1.0.0",
   "description": "A WhatsApp Bot Created By Weed-Tech",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name FUSÉE-MD",
-    "stop": "pm2 stop FUSÉE-MD",
-    "restart": "pm2 restart FUSÉE-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Fus-e-MD",
+    "stop": "pm2 stop Fus-e-MD",
+    "restart": "pm2 restart Fus-e-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
