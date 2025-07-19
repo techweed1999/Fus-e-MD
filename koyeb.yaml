@@ -1,6 +1,6 @@
-name: Fusée-md
+name: Fus-e-MD
 services:
-  - name: Fusée-md-service
+  - name: Fus-e-MD-service
     type: web
     ports:
       - 5000
