@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PEACE~jcc2UQhA#0fEP2kCsGxjTKf16WgUhKiuN1TR1ECzWMrn09GFD2KM ",
+SESSION_ID: process.env.SESSION_ID || "Fus-e-MD~zU0xRbza#mOA5Bx-9Ba4bZB0mVL7Lr0VFvo4Vfe0dZjD-yR3zeow",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY FUSÉE-MD*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY Fus-e-MD*",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
@@ -27,7 +27,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/er8ksj",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "FUSÉE-MD",
+BOT_NAME: process.env.BOT_NAME || "Fus-e-MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "WeedTech",
 // type sticker pack name 
@@ -45,7 +45,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ by WeedTech*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/ybe4l4",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *FUSÉE-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *Fus-e-MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
